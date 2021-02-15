@@ -3,7 +3,7 @@
 👦 Meu nome é Matheus, tenho 26 anos. </br>
 🎓 Sou formado em Gestão de T.I. </br>
 💻 A stack que venho estudando e utilizando nos meus projetos pessoais é a Node + React, porém tenho praticado mais o front-end. </br>
-🏢 Atualmente trabalho na empresa Inforce Tecnologia como desenvolvedor front-end. </br>
+🏢 Atualmente trabalho na empresa Inforce Tecnologia como desenvolvedor front-end Jr. </br>
 💾 Projeto atual: https://github.com/MatheusFelizardo/saas_project </br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-felizardo/)
