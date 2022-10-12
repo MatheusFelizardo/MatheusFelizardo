@@ -4,7 +4,7 @@
 🎓 I'm graduated in IT Management </br>
 💻 I'm a frontend developer and at the moment I'm studying React but when I'm working and don't have any task, I study NodeJs. </br>
 I also started the post graduate in software engineering. </br>
-🏢 I'm working at Intelie as Jr. software developer  </br>
+🏢 I'm working at Envivent as web developer  </br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-felizardo/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/theusfelizardo1)
