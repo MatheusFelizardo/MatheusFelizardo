@@ -1,8 +1,8 @@
 # Welcome 👋
 
-👦 My name is Matheus, I'm 28 years old.</br>
+👦 My name is Matheus, I'm 29 years old.</br>
 🎓 I'm graduated in IT Management </br>
-💻 I'm a web developer and I work mainly with React (Next), Vue (Nuxt), Drupal, Laravel, Tailwindm, and other technologies. </br>
+💻 I'm a web developer and I work mainly with React (Next), Vue (Nuxt), Drupal, Laravel, Tailwind, and other technologies. </br>
 I also started an MS in Software Engineering at Porto University. </br>
 🏢 I'm working at Envivent as a Web developer  </br>
 
