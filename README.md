@@ -1,10 +1,9 @@
 # Welcome 👋
 
-👦 My name is Matheus, I'm 29 years old.</br>
-🎓 I'm graduated in IT Management </br>
-💻 I'm a web developer and I work mainly with React (Next), Vue (Nuxt), Drupal, Laravel, Tailwind, and other technologies. </br>
-I also started an MS in Software Engineering at Porto University. </br>
-🏢 I'm working at Envivent as a Web developer  </br>
+👦 Hi, I'm Matheus!</br>
+💻 I'm a web developer and I work with React (Next), Vue (Nuxt), Drupal, Laravel, Tailwind, and other technologies. </br>
+I'm currently enrolled in a Software Engineering MS at Porto University. </br>
+🏢 I work at Envivent as a Web developer  </br>
 
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/matheus-felizardo/)
 [<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/theusfelizardo1)
